@@ -1,0 +1,10 @@
+.page__content {
+  font-family: "Poppins", Arial, sans-serif;
+  color: rgb(33, 33, 33);
+  padding: 0 10px;
+}
+
+.page__section {
+  max-width: 1280px;
+  margin: 0 auto;
+}
